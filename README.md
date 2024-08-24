@@ -1,6 +1,6 @@
 # StickerSmash
 
-StickerSmash is a application I have created using expo's documentation for react native introduction. This applicaiton carries out my existing React knowledge and allow me to create mobile compatible application.
+StickerSmash is a application I have created using expo's documentation for react native introduction. This applicaiton carries out my existing React knowledge and allow me to create mobile compatible application with cool components.
 
 ## What learned
 
