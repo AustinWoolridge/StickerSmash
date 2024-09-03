@@ -1,3 +1,4 @@
+import { GestureHandlerRootView } from "react-native-gesture-handler";
 import { StatusBar } from "expo-status-bar";
 import { StyleSheet, View } from "react-native";
 import { useState } from 'react';
@@ -54,7 +55,7 @@ export default function App() {
     };
 
     return (
-        <View style={styles.container}>
+        <GestureHandlerRootView style={styles.container}>
             <View style={styles.imageContainer}>
                 <ImageViewer
                     placeholderImageSource={PlaceholderImage}
@@ -83,7 +84,7 @@ export default function App() {
             <StatusBar style="auto" />
 
 
-        </View>
+        </GestureHandlerRootView>
     );
 }
 
