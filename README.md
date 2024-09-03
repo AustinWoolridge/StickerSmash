@@ -1,6 +1,7 @@
 # Application Development Status Tracker ( Notion )
 
-![image](https://github.com/user-attachments/assets/5870f6fb-7afa-4740-a6fd-e1395d3e252f)
+![image](https://github.com/user-attachments/assets/100ce4a7-c0d2-4108-aade-5f0f9888bf80)
+
 
 
 
