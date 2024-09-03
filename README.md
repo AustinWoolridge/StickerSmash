@@ -29,5 +29,6 @@ props : visible, animationType, transparent.
 
 And many other core react-native components..
 
-![image](https://github.com/user-attachments/assets/4c59d2b4-2da2-482e-b41e-4ea4df852ba5)
+![image](https://github.com/user-attachments/assets/764b9ac6-4447-44f2-8b5f-851043bdbc97)
+
 
