@@ -16,7 +16,7 @@ import { captureRef } from 'react-native-view-shot';
 import DomToImage from "dom-to-image";
 
 
-const PlaceholderImage = require("./assets/images/background-image.png");
+const PlaceholderImage = require("./assets/images/download.jpeg");
 
 export default function App() {
 
@@ -132,7 +132,7 @@ export default function App() {
             <EmojiPicker isVisible={isModalVisible} onClose={onModalClose}>
                 <EmojiList onSelect={setPickedEmoji} onCloseModal={onModalClose} />
             </EmojiPicker>
-            <StatusBar style="auto" />
+            <StatusBar style="light" />
 
 
         </GestureHandlerRootView>
