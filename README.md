@@ -1,3 +1,9 @@
+# Application Development Status Tracker ( Notion )
+
+![image](https://github.com/user-attachments/assets/5870f6fb-7afa-4740-a6fd-e1395d3e252f)
+
+
+
 # StickerSmash
 
 StickerSmash is a application I have created using expo's documentation for react native introduction. This applicaiton carries out my existing React knowledge and allow me to create mobile compatible application with cool components.
