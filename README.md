@@ -26,7 +26,7 @@
     <a href="https://github.com/AustinWoolridge/StickerSmash"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/AustinWoolridge/StickerSmash">View Demo</a>
+    <a href="https://github.com/AustinWoolridge/StickerSmash/blob/main/public/StickerSmash-gif.gif">View Demo</a>
     ·
     <a href="https://github.com/AustinWoolridge/StickerSmash/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -68,6 +68,8 @@
 ## About The Project
 
 <img src="/public/StickerSmash-gif.gif" alt="StickerSmash-gif">
+</br>
+<img src="/public/Task-list.png" alt="Task-list.png">
 
 Here's a concise summary for my StickerSmash application that highlights its key features and technologies:
 
